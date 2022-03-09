@@ -23,26 +23,26 @@ interfaz amigable con los usuarios.
 <h2>Requerimientos del proyecto</h2>
 <li>El sistema posibilitará al usuario ingresar mediante un login que 
 solicitará: [Usuario, Contraseña].
-• El sistema permitirá al usuario registrarse en caso de no tener 
+<li>El sistema permitirá al usuario registrarse en caso de no tener 
 usuario y contraseña y le solicitará la información de los siguientes 
 campos: [nombre, e-mail, contraseña y verificación de la 
 contraseña].
-• El menú de administración del sistema desplegará tres opciones: 
+<li>El menú de administración del sistema desplegará tres opciones: 
 [pacientes, médicos y pistas de auditoría].
-• El sistema permitirá al usuario el registro de pacientes, el cual 
+<li>El sistema permitirá al usuario el registro de pacientes, el cual 
 deberá ingresar la información en los siguientes campos: 
 [nombre, apellido paterno, apellido materno, edad, código postal,
 selección de una colonia, padecimiento, medicamento, fecha 
 inicio [AAAA/MM/DD] de su tratamiento y selección de un médico 
 tratante]
-• Cuando el usuario ingrese el código postal, el sistema deberá 
+<li>Cuando el usuario ingrese el código postal, el sistema deberá 
 mostrar el estado, ciudad, delegación y la colonia o colonias que 
 corresponda al código postal proporcionado mediante una lista 
 desplegable.
-• El sistema permitirá asignar un médico tratante al paciente que se 
+<li>El sistema permitirá asignar un médico tratante al paciente que se 
 está registrando, si el médico a asignar no existe, el sistema 
 deberá permitir registrar un nuevo médico.
-• El sistema permitirá al usuario modificar la información de los 
+<li>El sistema permitirá al usuario modificar la información de los 
 pacientes que estén registrados en la base de datos.
-• El sistema permitirá al usuario eliminar los registros de los 
+<li>El sistema permitirá al usuario eliminar los registros de los 
 pacientes que se encuentren en la base de datos

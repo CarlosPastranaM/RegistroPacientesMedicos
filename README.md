@@ -21,7 +21,7 @@ contar con un sistema eficiente, rápido, funcional y a la vez con una
 interfaz amigable con los usuarios.
 
 <h2>Requerimientos del proyecto</h2>
-• El sistema posibilitará al usuario ingresar mediante un login que 
+<li>El sistema posibilitará al usuario ingresar mediante un login que 
 solicitará: [Usuario, Contraseña].
 • El sistema permitirá al usuario registrarse en caso de no tener 
 usuario y contraseña y le solicitará la información de los siguientes 
